@@ -1,10 +1,10 @@
-# 📊 Amazon Sales Analytics Dashboard
+# Amazon Sales Analytics Dashboard
 
 An end-to-end Data Analytics project that analyzes Amazon sales data using **MySQL** and **Power BI**. The project focuses on data normalization, SQL analysis, KPI creation, and interactive dashboard development to uncover business insights.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project transforms raw Amazon sales data into meaningful business insights through SQL queries and an interactive Power BI dashboard.
 
@@ -30,7 +30,7 @@ The workflow includes:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Amazon-Sales-Analytics
@@ -44,15 +44,15 @@ Amazon-Sales-Analytics
 
 ---
 
-## 📈 Dashboard Preview
+## Dashboard Preview
 
 > Add your dashboard screenshot below.
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/Amazon_ecommerce_sales_Analytics_Dashboard.png)
 
 ---
 
-## 📊 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 - Total Revenue
 - Total Orders
@@ -62,7 +62,7 @@ Amazon-Sales-Analytics
 
 ---
 
-## 📌 Dashboard Insights
+## Dashboard Insights
 
 - Monthly Revenue Trend
 - Monthly Orders Trend
@@ -74,7 +74,7 @@ Amazon-Sales-Analytics
 
 ---
 
-## 🗄️ Database Design
+## Database Design
 
 The project follows a normalized database design with three related tables:
 
@@ -86,7 +86,7 @@ Relationships were created using primary and foreign keys.
 
 ---
 
-## 💡 SQL Concepts Used
+## SQL Concepts Used
 
 - SELECT
 - WHERE
@@ -102,7 +102,7 @@ Relationships were created using primary and foreign keys.
 
 ---
 
-## 📈 Power BI Features
+## Power BI Features
 
 - KPI Cards
 - Line Chart
@@ -115,7 +115,7 @@ Relationships were created using primary and foreign keys.
 
 ---
 
-## 🎯 Business Outcomes
+## Business Outcomes
 
 This dashboard helps analyze:
 
@@ -128,16 +128,16 @@ This dashboard helps analyze:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Gaurav Kumar**
 
 B.Tech Electrical Engineering  
 Delhi Technological University (DTU)
 
-GitHub: https://github.com/YOUR_USERNAME
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+GitHub: https://github.com/gkumar2313-png
+LinkedIn: https://www.linkedin.com/in/gaurav-kumar-1303502aa/
 
 ---
 
-⭐ If you found this project useful, consider giving it a star.
+If you found this project useful, consider giving it a star.
